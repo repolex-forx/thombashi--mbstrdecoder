@@ -1,0 +1,11 @@
+{
+  "org": "thombashi",
+  "repo": "mbstrdecoder",
+  "versions": [
+    {
+      "commit": "d44737c4e817d6d39cce03f966005f319d6e0a3e",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:22:40.366214+00:00"
+    }
+  ]
+}
