@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/thombashi/mbstrdecoder/commit/d44737c4e817d6d39cce03f966005f319d6e0a3e",
       "git:hexsha": "d44737c4e817d6d39cce03f966005f319d6e0a3e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/thombashi/mbstrdecoder/commit/23ff7fa2687f1aec817f91e50b3eeb51bad20561",
